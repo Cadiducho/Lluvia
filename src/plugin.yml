@@ -1,0 +1,10 @@
+name: Lluvia
+main: es.corecraft.cadi.lluvia
+version: '0.1'
+description: Para la lluvia
+author: Cadiducho
+commands:
+  lluvia:
+    description: Comando principal
+    aliases: rain
+    usage: /lluvia [mundo] <si/no>
